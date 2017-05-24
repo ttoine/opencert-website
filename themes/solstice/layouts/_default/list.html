@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+<div class="container">
+  <h1>{{ .Title }}</h1>
+  <div class="col-md-17">
+    {{ range .Data.Pages }}
+    <div class="news_item">
+      <div class="news_item_date"><strong>{{ if ge .Date.Unix .Now.Unix }}Upcoming - {{end}}{{ .Date.Format "Mon, Jan 2, 2006" }}</strong></div>
+      <div class="news_item_title">
+        <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
+      </div>
+      <div class="news_item_description">
+        {{ .Summary }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ partial "footer.html" . }}

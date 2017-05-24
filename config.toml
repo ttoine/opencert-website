@@ -1,0 +1,44 @@
+MetaDataFormat = "yaml"
+theme = "solstice"
+languageCode = "en-us"
+title = "Project - website template"
+baseurl = "https://ttoine.github.io/hugo-template-test/"
+
+[params]
+  description = "A empty Hugo template to build static websites for the Eclipse projects"
+  author = "Antoine THOMAS and the Eclipse Foundation"
+  logo = "images/logo.png"
+
+[taxonomies]
+  tag = "tags"
+  group = "groups"
+
+[[menu.main]]
+  name = "Home"
+  weight = -200
+  identifier = "home"
+  url= "/"
+
+[[menu.main]]
+  name = "Getting Started"
+  weight = -150
+  identifier = "gettingstarted"
+  url= "/gettingstarted/"
+
+[[menu.main]]
+  name = "Documentation"
+  weight = -120
+  identifier = "documentation"
+  url= "/documentation/"
+
+[[menu.main]]
+  name = "Community"
+  weight = -110
+  identifier = "community"
+  url= "/community/"
+
+[[menu.main]]
+  name = "About"
+  weight = -100
+  identifier = "About"
+  url= "/about/"
