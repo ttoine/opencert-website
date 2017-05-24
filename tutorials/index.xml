@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Project - website template</title>
+    <link>https://ttoine.github.io/hugo-template-test/tutorials/</link>
+    <description>Recent content in Tutorials on Project - website template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ttoine.github.io/hugo-template-test/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial 1 - Install and run</title>
+      <link>https://ttoine.github.io/hugo-template-test/tutorials/tutorial1/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/tutorials/tutorial1/</guid>
+      <description>&lt;h2 id=&#34;this-is-where-you-write-your-tutorial&#34;&gt;This is where you write your tutorial&lt;/h2&gt;
+
+&lt;p&gt;You can put screenshots, graphics and other picture in &amp;ldquo;/static/images/tutorials/&amp;rdquo; and insert them like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/tutorials/graphic.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;And of course, you can add some code. Below is an example.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;            /* CallingMethodsInSameClass.java
+             *
+             * illustrates how to call static methods a class
+             * from a method in the same class
+             */
+
+            public class CallingMethodsInSameClass
+            {
+                public static void main(String[] args) {
+                    printOne();
+                    printOne();
+                    printTwo();
+                }
+
+                public static void printOne() {
+                    System.out.println(&amp;quot;Hello World&amp;quot;);
+                }
+
+                public static void printTwo() {
+                    printOne();
+                    printOne();
+                }
+            }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Et voilà, you have all the basics you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tutorial 2 - Your first project in 10min</title>
+      <link>https://ttoine.github.io/hugo-template-test/tutorials/tutorial2/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/tutorials/tutorial2/</guid>
+      <description>&lt;p&gt;This is just an Dummy introduction to demonstrate the use of the &amp;ldquo;more&amp;rdquo; tag. Just in case a user clicks on &amp;ldquo;Tutorials&amp;rdquo; in the breadcrumb, and then goes to the list of all available tutorials. They will be sorted by date of publication, so do not forget to update it if needed.&lt;/p&gt;
+
+&lt;p&gt;And now a bit of lorem ipsum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus velit id interdum efficitur. Morbi urna risus, consequat at purus ut, ullamcorper interdum diam. Ut fringilla volutpat tincidunt. Cras sit amet nulla lacus. Integer a sem bibendum, euismod turpis sit amet, pharetra dolor:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Duis dictum id urna eu lobortis&lt;/li&gt;
+&lt;li&gt;Integer elementum eget massa in tempus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

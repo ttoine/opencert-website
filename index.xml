@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project - website template</title>
+    <link>https://ttoine.github.io/hugo-template-test/</link>
+    <description>Recent content on Project - website template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 14:22:23 +0200</lastBuildDate>
+    
+	<atom:link href="https://ttoine.github.io/hugo-template-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>And yet another news</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world/</link>
+      <pubDate>Fri, 14 Apr 2017 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News one</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world-copy/</link>
+      <pubDate>Sat, 14 Jan 2017 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world-copy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News two - a very similar one</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-3/</link>
+      <pubDate>Wed, 14 Sep 2016 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-3/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with APP4MC</title>
+      <link>https://ttoine.github.io/hugo-template-test/gettingstarted/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/gettingstarted/</guid>
+      <description>This is the place to insert some very good tutorials about your projects. Please keep in mind that the average end users wants to be able to install, run and test it in less than 10min on his laptop. This is a very generic way to evaluate a project.
+If you have only one tutorial, you can erase the example below. And instead, write it here. If you have many tutorials, why not list them here and create dedicated pages?</description>
+    </item>
+    
+    <item>
+      <title>Tutorial 1 - Install and run</title>
+      <link>https://ttoine.github.io/hugo-template-test/tutorials/tutorial1/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/tutorials/tutorial1/</guid>
+      <description>&lt;h2 id=&#34;this-is-where-you-write-your-tutorial&#34;&gt;This is where you write your tutorial&lt;/h2&gt;
+
+&lt;p&gt;You can put screenshots, graphics and other picture in &amp;ldquo;/static/images/tutorials/&amp;rdquo; and insert them like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/tutorials/graphic.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;And of course, you can add some code. Below is an example.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;            /* CallingMethodsInSameClass.java
+             *
+             * illustrates how to call static methods a class
+             * from a method in the same class
+             */
+
+            public class CallingMethodsInSameClass
+            {
+                public static void main(String[] args) {
+                    printOne();
+                    printOne();
+                    printTwo();
+                }
+
+                public static void printOne() {
+                    System.out.println(&amp;quot;Hello World&amp;quot;);
+                }
+
+                public static void printTwo() {
+                    printOne();
+                    printOne();
+                }
+            }
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Et voilà, you have all the basics you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tutorial 2 - Your first project in 10min</title>
+      <link>https://ttoine.github.io/hugo-template-test/tutorials/tutorial2/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/tutorials/tutorial2/</guid>
+      <description>&lt;p&gt;This is just an Dummy introduction to demonstrate the use of the &amp;ldquo;more&amp;rdquo; tag. Just in case a user clicks on &amp;ldquo;Tutorials&amp;rdquo; in the breadcrumb, and then goes to the list of all available tutorials. They will be sorted by date of publication, so do not forget to update it if needed.&lt;/p&gt;
+
+&lt;p&gt;And now a bit of lorem ipsum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus velit id interdum efficitur. Morbi urna risus, consequat at purus ut, ullamcorper interdum diam. Ut fringilla volutpat tincidunt. Cras sit amet nulla lacus. Integer a sem bibendum, euismod turpis sit amet, pharetra dolor:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Duis dictum id urna eu lobortis&lt;/li&gt;
+&lt;li&gt;Integer elementum eget massa in tempus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Another article, to fill the news feed of the right column</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-2/</link>
+      <pubDate>Thu, 14 Apr 2016 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ttoine.github.io/hugo-template-test/about/</link>
+      <pubDate>Wed, 16 Sep 2015 11:09:06 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/about/</guid>
+      <description>This is where you write some information about:
+ the origin of the project, some institutional information, who is involved how to contact the project leads  FYI:
+ Pictures in this example website comes from Pixabay and are in CC 0. Code examples comes from Java Coding Samples  </description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://ttoine.github.io/hugo-template-test/community/</link>
+      <pubDate>Wed, 16 Sep 2015 11:02:52 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/community/</guid>
+      <description>Communication channels If you are looking for support, here are some channels to discuss with the project contributors:
+ Forum Mailing list Twitter Bugtracker IRC / Mattermost others ?  Eclipse &amp;ldquo;#projectname&amp;rdquo; Project page
+ Who is involved Developer resources Governance / Eclipse Development Process  External stuff List external links about other communities, projects, or companies that are related to this project.</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://ttoine.github.io/hugo-template-test/downloads/</link>
+      <pubDate>Mon, 14 Sep 2015 16:35:03 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/downloads/</guid>
+      <description>Current Release (version - date) Products  Name - version for Linux (64 Bit) - e.g Zip-archive (size)
+ Name - version for OSX (64 Bit) - e.g DMG (size)
+ Name - version for Windows (32 Bit) - [File type (size)
+ Name - version for Windows (64 Bit) - [File type (size)
+  Update Site  direct link: http://download.eclipse.org/projectname/updatesites/releases/version/
+ for offline installation: Zip-archive of Name Version p2 repository</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://ttoine.github.io/hugo-template-test/documentation/</link>
+      <pubDate>Fri, 17 Jul 2015 10:09:17 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/documentation/</guid>
+      <description>Open the documentation in your browser:
+&amp;rdquo;#projectname&amp;rdquo; - version - Online Help
+Downloas a static HTML version of the documentation to read offline:
+&amp;rdquo;#projectname&amp;rdquo; - version - Online Help (pdf file)
+Wiki:
+Eclipse &amp;ldquo;#projectname wiki&amp;rdquo;
+Related Standards and external documentation You can list here all the external resources that might help your community:
+ links to upstream documentation norms and standards references links to wikidedia article about specific topics and more  Think about this page as the place to write all the important information about the project.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://ttoine.github.io/hugo-template-test/help/help/</link>
+      <pubDate>Fri, 17 Jul 2015 10:09:17 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/help/help/</guid>
+      <description>This is where you can write your documentation if you want to do it with Hugo, in markdown. You can then put all the screenshots, graphics and other pictures in the &amp;ldquo;static&amp;rdquo; folder. There is already a &amp;ldquo;help&amp;rdquo; folder too.
+Or, you can use a dedicated application to write your documentation, and export it in static HTML. You can then put it in this folder, it will be available when you upload your website on the webserver.</description>
+    </item>
+    
+    <item>
+      <title>Eclipse APP4MC</title>
+      <link>https://ttoine.github.io/hugo-template-test/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/index/</guid>
+      <description>Eclipse &amp;ldquo;#projectname&amp;rdquo; is a not so empty template to create website very quickly for new projects and working groups joigning the Eclipse Foundation. It is made with static html website generator Hugo
+Below is an example of an image.
+When you open the index.md file you will see that embeded pictures have a related link. Please don&amp;rsquo;t start URL of files with a &amp;ldquo;/&amp;rdquo;. Please put all pictures in the &amp;ldquo;static&amp;rdquo; folder, and eventually use or create dedicated sub-folders for each page if you will use a lot of picture, e.</description>
+    </item>
+    
+  </channel>
+</rss>

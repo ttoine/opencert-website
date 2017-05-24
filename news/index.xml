@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Project - website template</title>
+    <link>https://ttoine.github.io/hugo-template-test/news/</link>
+    <description>Recent content in News on Project - website template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2017 14:22:23 +0200</lastBuildDate>
+    
+	<atom:link href="https://ttoine.github.io/hugo-template-test/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>And yet another news</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world/</link>
+      <pubDate>Fri, 14 Apr 2017 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News one</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world-copy/</link>
+      <pubDate>Sat, 14 Jan 2017 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world-copy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News two - a very similar one</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-3/</link>
+      <pubDate>Wed, 14 Sep 2016 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-3/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Another article, to fill the news feed of the right column</title>
+      <link>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-2/</link>
+      <pubDate>Thu, 14 Apr 2016 14:22:23 +0200</pubDate>
+      
+      <guid>https://ttoine.github.io/hugo-template-test/news/hello-world-copy-2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hello World&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
