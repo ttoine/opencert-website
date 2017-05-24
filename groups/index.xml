@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Groups on Project - website template</title>
-    <link>https://ttoine.github.io/hugo-template-test/groups/</link>
+    <link>https://ttoine.github.io/opencert-website/groups/</link>
     <description>Recent content in Groups on Project - website template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ttoine.github.io/hugo-template-test/groups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ttoine.github.io/opencert-website/groups/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
