@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Project - website template</title>
+    <title>News on OpenCERT</title>
     <link>https://ttoine.github.io/opencert-website/news/</link>
-    <description>Recent content in News on Project - website template</description>
+    <description>Recent content in News on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 14:22:23 +0200</lastBuildDate>
