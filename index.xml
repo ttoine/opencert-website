@@ -41,7 +41,7 @@
       
       <guid>https://ttoine.github.io/opencert-website/community/</guid>
       <description>Communication channels Communications Channels Learn about OpenCert, join the community, connect with other CHESS users, get support and service:
- Forum: Consult the OpenCert forum and ask questions about the tool. Wiki: Wiki prodiving additional resources to follow and contribute to OpenCert. Bugzilla: Bugzilla for bug reporting and enhancement requests. Mailing-list: Subscribe to the developers mailing-list to be warned about technical announcements. Polarsys project page: information about the project development.</description>
+ Forum: Consult the OpenCert forum and ask questions about the tool. This also the forum about CHESS and other Polarsys projects. Polarsys Wiki: Wiki providing additional resources about OpenCert and Polarsys. Report a bug: Bugzilla for bug reporting and enhancement requests. Mailing-list: Subscribe to the developers mailing-list to be warned about technical announcements.</description>
     </item>
     
     <item>
@@ -74,8 +74,9 @@ Related documentation  AMASS Project Deliverables: http://www.amass-ecsel.eu/con
       
       <guid>https://ttoine.github.io/opencert-website/gettingstarted/</guid>
       <description>This section guides the end-user through the use of OpenCert.
-Tutorial 1 - Install and run Install a standalone version including OpenCert and Papyrus/CHESS toolsets.
-Tutorial 1</description>
+Installation It must be noted that the pre-existing OpenCert tools are designed to follow client-server architecture approach:
+ OpenCert server - installed in a central host machine One or many OpenCert clients - each of which installed on specific user machines  This installation relates to a standalone version of OpenCert, including Papyrus/CHESS plugins.
+OpenCert can also use the Eclipse Process Framework (EPF) toolset.</description>
     </item>
     
     <item>

@@ -207,11 +207,71 @@
 
 <hr />
 
-<h4 id="tutorial-1-install-and-run">Tutorial 1 - Install and run</h4>
+<h2 id="installation">Installation</h2>
 
-<p>Install a standalone version including OpenCert and Papyrus/CHESS toolsets.</p>
+<p>It must be noted that the pre-existing OpenCert tools are designed to follow client-server architecture approach:</p>
 
-<p><a href="../tutorials/tutorial1">Tutorial 1</a></p>
+<ul>
+<li>OpenCert server - installed in a central host machine</li>
+<li>One or many OpenCert clients - each of which installed on specific user machines</li>
+</ul>
+
+<p>This installation relates to a standalone version of OpenCert, including Papyrus/CHESS plugins.</p>
+
+<p>OpenCert can also use the Eclipse Process Framework (EPF) toolset. That can be downloaded in a separate Eclipse standalone version (<a href="http://www.eclipse.org/epf/downloads/downloads.php">http://www.eclipse.org/epf/downloads/downloads.php</a>). We plan to integrate the whole toolsets in the same standalone version in future releases.</p>
+
+<h3 id="client-bundle-download">Client bundle download</h3>
+
+<p>It is required to have installed (minimum) <strong>Java Environment 1.8</strong>.</p>
+
+<p>To install the OpenCert platform client download it from project SVN using the links below for Windows 64 bits and uncompress it into your hard disk:</p>
+
+<p><a href="https://services-medini.kpit.com/svn/AMASS_collab/WP-transversal/ImplementationTeam/PrototypeCore/Tools/OpenCertCHESS/20170206_OpenCertCHESSClient_Win_x64.zip">This must be uploaded to some public site. For the moment we have it in our private AMASS SVN</a></p>
+
+<p>For those users behind proxies, they should take into account that different clients use ports 2036 and 8080 for communications.</p>
+
+<h3 id="client-configuration">Client configuration</h3>
+
+<p>To use the platform execute the eclipse.exe file and introduce a select a folder that will be used as workspace.</p>
+
+<p><img src="../images/tutorials/Fig1.png" class="img-responsive" alt="Figure 1 - Select the workspace menu"><br /></p>
+
+<p>The first step after the installation process is to configure the connection settings with the CDO repository where all the models generated using the platform will be stored. This information must be introduced in the Model Repository Preference page inside the OpenCert category. Go to menu Window → Preferences to open this window.</p>
+
+<p><img src="../images/tutorials/Fig2.png" class="img-responsive" alt="Figure 2 - Preference menu"><br /></p>
+
+<p><img src="../images/tutorials/Fig3.png" class="img-responsive" alt="Figure 3 - Model Repository Configuration Page linked to a common repository"><br /></p>
+
+<p>The information to introduce is:</p>
+
+<ul>
+<li><strong>Server IP:</strong> The IP of the centralized CDO Server (amass.tecnalia.com).</li>
+<li><strong>Server Port:</strong> The port used by the running CDO Server. Take into account that if the client is behind a proxy, the port 2036 shall be open, otherwise the communication will fail.</li>
+<li><strong>Repository name:</strong> The name of the repository where all the date will be stored (read only).</li>
+<li><strong>Protocol:</strong> The protocol used to connect to the CDO Server.</li>
+</ul>
+
+<p>Disable the Repository timeout to avoid the automatic closing of the connection with the server for inactivity using the menu Window → Preference as shown in the image below.</p>
+
+<p><img src="../images/tutorials/Fig4.png" class="img-responsive" alt="Figure 4 - Disable the Repository timeout time"><br /></p>
+
+<p>After introducing this data the Opencert Perspective can be used to connect to the server and view the data of the repository configured. To open it, go to menu Window→ Perspective → Open Perspective→ Other.</p>
+
+<p><img src="../images/tutorials/Fig5.png" class="img-responsive" alt="Figure 5 - Opencert Perspective"><br /></p>
+
+<p>If the provided connection settings with the repository are incorrect or the server is not running, this view will display the error in the screenshot below instead of the contents of the repository. To solve it, check the server is running (using the page <a href="http://amass.tecnalia.com:8080">http://amass.tecnalia.com:8080</a>) and the configuration settings are correct, ensure the communication ports (2036 and 8080) are open, close the Repository Explorer view and open it again (Window→Show View→Other→Opencert→Repository Explorer).</p>
+
+<p><img src="../images/tutorials/Fig6.png" class="img-responsive" alt="Figure 6 - Opencert Perspective"></p>
+
+<h3 id="1-3-deleting-repository-contents">1.3 Deleting Repository contents</h3>
+
+<p>To delete a folder and its contents, right click over it and left click the “Delete” menu.</p>
+
+<p><img src="../images/tutorials/Fig7.png" class="img-responsive" alt="Figure 7 - Delete folder menu"><br /></p>
+
+<p>To delete a model, right click over it and left click the “Delete“menu.</p>
+
+<p><img src="../images/tutorials/Fig8.png" class="img-responsive" alt="Figure 8 - Delete model menu"></p>
 
 
 
