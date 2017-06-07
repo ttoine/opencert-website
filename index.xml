@@ -6,70 +6,76 @@
     <description>Recent content on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2017 14:22:23 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ttoine.github.io/opencert-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>And yet another news</title>
+      <title>About</title>
+      <link>https://ttoine.github.io/opencert-website/about/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/opencert-website/about/</guid>
+      <description>OpenCert is not a monolithic platform. The OpenCert Tool Platform is composed of various contributions that cover the different features:
+ OpenCert Core toolset supports evidence management, assurance case specification and compliance management functionalities. The CHESS toolset adds support for Architecture-Driven Assurance. The CHESS toolset leverages another important PolarSys project, the Papyrus platform for UML design and profiles. EPF Composer supports the process specification and process compliance.  The main contributions come from the AMASS project (www.</description>
+    </item>
+    
+    <item>
+      <title>Building the website</title>
       <link>https://ttoine.github.io/opencert-website/news/hello-world/</link>
-      <pubDate>Fri, 14 Apr 2017 14:22:23 +0200</pubDate>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ttoine.github.io/opencert-website/news/hello-world/</guid>
       <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hello World&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;In 2017 spring, we are starting to build a website for the Eclipse OpenCERT project.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>News one</title>
-      <link>https://ttoine.github.io/opencert-website/news/hello-world-copy/</link>
-      <pubDate>Sat, 14 Jan 2017 14:22:23 +0200</pubDate>
+      <title>Community</title>
+      <link>https://ttoine.github.io/opencert-website/community/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ttoine.github.io/opencert-website/news/hello-world-copy/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hello World&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://ttoine.github.io/opencert-website/community/</guid>
+      <description>Communication channels Communications Channels Learn about OpenCert, join the community, connect with other CHESS users, get support and service:
+ Forum: Consult the OpenCert forum and ask questions about the tool. Wiki: Wiki prodiving additional resources to follow and contribute to OpenCert. Bugzilla: Bugzilla for bug reporting and enhancement requests. Mailing-list: Subscribe to the developers mailing-list to be warned about technical announcements. Polarsys project page: information about the project development.</description>
     </item>
     
     <item>
-      <title>News two - a very similar one</title>
-      <link>https://ttoine.github.io/opencert-website/news/hello-world-copy-3/</link>
-      <pubDate>Wed, 14 Sep 2016 14:22:23 +0200</pubDate>
+      <title>Documentation</title>
+      <link>https://ttoine.github.io/opencert-website/documentation/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ttoine.github.io/opencert-website/news/hello-world-copy-3/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hello World&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://ttoine.github.io/opencert-website/documentation/</guid>
+      <description> User Manual:
+link to the manual
+Developer Manual:
+link to the manual
+Related documentation  AMASS Project Deliverables: http://www.amass-ecsel.eu/content/deliverables CHESS User Guide: https://www.polarsys.org/chess/publis/CHESSToolset_UserGuide.pdf EPF User Manual: https://eclipse.org/epf/general/EPF_Installation_Tutorial_User_Manual.pdf Structured Assurance Case Metamodel™ (SACM™) Standard: http://www.omg.org/spec/SACM/  </description>
     </item>
     
     <item>
-      <title>Getting Started with APP4MC</title>
+      <title>Eclipse OpenCERT</title>
+      <link>https://ttoine.github.io/opencert-website/index/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/opencert-website/index/</guid>
+      <description>OpenCert is an integrated and holistic solution for assurance and certification management of Cyber-Physical Systems (CPS) spanning the largest safety and security-critical industrial markets, such as aerospace, space, railway, manufacturing, energy and health. The ultimate aim is to lower certification costs in face of rapidly changing product features and market needs.
+ Approach To deal with the technical CPS complexity and the associated labor-intensive activities for qualifying and certifying these systems, OpenCert uses model-based approaches and incremental techniques.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with OpenCERT</title>
       <link>https://ttoine.github.io/opencert-website/gettingstarted/</link>
-      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ttoine.github.io/opencert-website/gettingstarted/</guid>
-      <description>This is the place to insert some very good tutorials about your projects. Please keep in mind that the average end users wants to be able to install, run and test it in less than 10min on his laptop. This is a very generic way to evaluate a project.
-If you have only one tutorial, you can erase the example below. And instead, write it here. If you have many tutorials, why not list them here and create dedicated pages?</description>
+      <description>This section guides the end-user through the use of OpenCert.
+Tutorial 1 - Install and run Install a standalone version including OpenCert and Papyrus/CHESS toolsets.
+Tutorial 1</description>
     </item>
     
     <item>
@@ -137,45 +143,6 @@ If you have only one tutorial, you can erase the example below. And instead, wri
     </item>
     
     <item>
-      <title>Another article, to fill the news feed of the right column</title>
-      <link>https://ttoine.github.io/opencert-website/news/hello-world-copy-2/</link>
-      <pubDate>Thu, 14 Apr 2016 14:22:23 +0200</pubDate>
-      
-      <guid>https://ttoine.github.io/opencert-website/news/hello-world-copy-2/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2017 spring, I am starting to work on this ready to use, not so empty template to build quickly websites with content about new projects and working groups joining the Eclise Foundation. This is an example of a news article.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Hello World&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ttoine.github.io/opencert-website/about/</link>
-      <pubDate>Wed, 16 Sep 2015 11:09:06 +0200</pubDate>
-      
-      <guid>https://ttoine.github.io/opencert-website/about/</guid>
-      <description>This is where you write some information about:
- the origin of the project, some institutional information, who is involved how to contact the project leads  FYI:
- Pictures in this example website comes from Pixabay and are in CC 0. Code examples comes from Java Coding Samples  </description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <link>https://ttoine.github.io/opencert-website/community/</link>
-      <pubDate>Wed, 16 Sep 2015 11:02:52 +0200</pubDate>
-      
-      <guid>https://ttoine.github.io/opencert-website/community/</guid>
-      <description>Communication channels If you are looking for support, here are some channels to discuss with the project contributors:
- Forum Mailing list Twitter Bugtracker IRC / Mattermost others ?  Eclipse &amp;ldquo;#projectname&amp;rdquo; Project page
- Who is involved Developer resources Governance / Eclipse Development Process  External stuff List external links about other communities, projects, or companies that are related to this project.</description>
-    </item>
-    
-    <item>
       <title>Downloads</title>
       <link>https://ttoine.github.io/opencert-website/downloads/</link>
       <pubDate>Mon, 14 Sep 2015 16:35:03 +0200</pubDate>
@@ -191,39 +158,12 @@ If you have only one tutorial, you can erase the example below. And instead, wri
     
     <item>
       <title>Documentation</title>
-      <link>https://ttoine.github.io/opencert-website/documentation/</link>
-      <pubDate>Fri, 17 Jul 2015 10:09:17 +0000</pubDate>
-      
-      <guid>https://ttoine.github.io/opencert-website/documentation/</guid>
-      <description>Open the documentation in your browser:
-&amp;rdquo;#projectname&amp;rdquo; - version - Online Help
-Downloas a static HTML version of the documentation to read offline:
-&amp;rdquo;#projectname&amp;rdquo; - version - Online Help (pdf file)
-Wiki:
-Eclipse &amp;ldquo;#projectname wiki&amp;rdquo;
-Related Standards and external documentation You can list here all the external resources that might help your community:
- links to upstream documentation norms and standards references links to wikidedia article about specific topics and more  Think about this page as the place to write all the important information about the project.</description>
-    </item>
-    
-    <item>
-      <title>Documentation</title>
       <link>https://ttoine.github.io/opencert-website/help/help/</link>
       <pubDate>Fri, 17 Jul 2015 10:09:17 +0000</pubDate>
       
       <guid>https://ttoine.github.io/opencert-website/help/help/</guid>
       <description>This is where you can write your documentation if you want to do it with Hugo, in markdown. You can then put all the screenshots, graphics and other pictures in the &amp;ldquo;static&amp;rdquo; folder. There is already a &amp;ldquo;help&amp;rdquo; folder too.
 Or, you can use a dedicated application to write your documentation, and export it in static HTML. You can then put it in this folder, it will be available when you upload your website on the webserver.</description>
-    </item>
-    
-    <item>
-      <title>Eclipse APP4MC</title>
-      <link>https://ttoine.github.io/opencert-website/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ttoine.github.io/opencert-website/index/</guid>
-      <description>Eclipse &amp;ldquo;#projectname&amp;rdquo; is a not so empty template to create website very quickly for new projects and working groups joigning the Eclipse Foundation. It is made with static html website generator Hugo
-Below is an example of an image.
-When you open the index.md file you will see that embeded pictures have a related link. Please don&amp;rsquo;t start URL of files with a &amp;ldquo;/&amp;rdquo;. Please put all pictures in the &amp;ldquo;static&amp;rdquo; folder, and eventually use or create dedicated sub-folders for each page if you will use a lot of picture, e.</description>
     </item>
     
   </channel>
