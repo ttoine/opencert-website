@@ -6,10 +6,19 @@
     <description>Recent content on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ttoine.github.io/opencert-website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://ttoine.github.io/opencert-website/downloads/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ttoine.github.io/opencert-website/downloads/</guid>
+      <description> Current Release (version - 2017-03-0) Products  OpenCert CHESS client - version for Windows (64 Bit) - [Zip-archive (317.7 MB)  </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -141,20 +150,6 @@ OpenCert can also use the Eclipse Process Framework (EPF) toolset.</description>
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Downloads</title>
-      <link>https://ttoine.github.io/opencert-website/downloads/</link>
-      <pubDate>Mon, 14 Sep 2015 16:35:03 +0200</pubDate>
-      
-      <guid>https://ttoine.github.io/opencert-website/downloads/</guid>
-      <description>Current Release (version - date) Products  Name - version for Linux (64 Bit) - e.g Zip-archive (size)
- Name - version for OSX (64 Bit) - e.g DMG (size)
- Name - version for Windows (32 Bit) - [File type (size)
- Name - version for Windows (64 Bit) - [File type (size)
-  Update Site  direct link: http://download.eclipse.org/projectname/updatesites/releases/version/
- for offline installation: Zip-archive of Name Version p2 repository</description>
     </item>
     
     <item>
