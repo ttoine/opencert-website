@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on OpenCERT</title>
-    <link>https://polarsys.org/opencert/news/</link>
+    <link>https://ttoine.github.io/opencert-website/news/</link>
     <description>Recent content in News on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://polarsys.org/opencert/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ttoine.github.io/opencert-website/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Building the website</title>
-      <link>https://polarsys.org/opencert/news/hello-world/</link>
+      <link>https://ttoine.github.io/opencert-website/news/hello-world/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://polarsys.org/opencert/news/hello-world/</guid>
+      <guid>https://ttoine.github.io/opencert-website/news/hello-world/</guid>
       <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In 2017 spring, we are starting to build a website for the Eclipse OpenCERT project.&lt;/p&gt;
