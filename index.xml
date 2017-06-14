@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenCERT</title>
-    <link>/</link>
+    <link>https://polarsys.org/opencert/</link>
     <description>Recent content on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://polarsys.org/opencert/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Downloads</title>
-      <link>/downloads/</link>
+      <link>https://polarsys.org/opencert/downloads/</link>
       <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/downloads/</guid>
+      <guid>https://polarsys.org/opencert/downloads/</guid>
       <description> Current Release (version - 2017-03-0) Products  OpenCert CHESS client - version for Windows (64 Bit) - [Zip-archive (317.7 MB)  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://polarsys.org/opencert/about/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://polarsys.org/opencert/about/</guid>
       <description>OpenCert is not a monolithic platform. The OpenCert Tool Platform is composed of various contributions that cover the different features:
  OpenCert Core toolset supports evidence management, assurance case specification and compliance management functionalities. The CHESS toolset adds support for Architecture-Driven Assurance. The CHESS toolset leverages another important PolarSys project, the Papyrus platform for UML design and profiles. EPF Composer supports the process specification and process compliance.  The main contributions come from the AMASS project (www.</description>
     </item>
     
     <item>
       <title>Building the website</title>
-      <link>/news/hello-world/</link>
+      <link>https://polarsys.org/opencert/news/hello-world/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/news/hello-world/</guid>
+      <guid>https://polarsys.org/opencert/news/hello-world/</guid>
       <description>&lt;p&gt;&lt;em&gt;Article by &lt;strong&gt;Antoine THOMAS&lt;/strong&gt;, Eclipse Foundation&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In 2017 spring, we are starting to build a website for the Eclipse OpenCERT project.&lt;/p&gt;
@@ -45,20 +45,20 @@
     
     <item>
       <title>Community</title>
-      <link>/community/</link>
+      <link>https://polarsys.org/opencert/community/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/community/</guid>
+      <guid>https://polarsys.org/opencert/community/</guid>
       <description>Communication channels Communications Channels Learn about OpenCert, join the community, connect with other CHESS users, get support and service:
  Forum: Consult the OpenCert forum and ask questions about the tool. This also the forum about CHESS and other Polarsys projects. Polarsys Wiki: Wiki providing additional resources about OpenCert and Polarsys. Report a bug: Bugzilla for bug reporting and enhancement requests. Mailing-list: Subscribe to the developers mailing-list to be warned about technical announcements.</description>
     </item>
     
     <item>
       <title>Documentation</title>
-      <link>/documentation/</link>
+      <link>https://polarsys.org/opencert/documentation/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/documentation/</guid>
+      <guid>https://polarsys.org/opencert/documentation/</guid>
       <description> User Manual:
 OpenCert_UserManual_07062017.pdf
 Developer Manual:
@@ -68,20 +68,20 @@ Related documentation  AMASS Project Deliverables: http://www.amass-ecsel.eu/con
     
     <item>
       <title>Eclipse OpenCERT</title>
-      <link>/index/</link>
+      <link>https://polarsys.org/opencert/index/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/index/</guid>
+      <guid>https://polarsys.org/opencert/index/</guid>
       <description>OpenCert is an integrated and holistic solution for assurance and certification management of Cyber-Physical Systems (CPS) spanning the largest safety and security-critical industrial markets, such as aerospace, space, railway, manufacturing, energy and health. The ultimate aim is to lower certification costs in face of rapidly changing product features and market needs.
  Approach To deal with the technical CPS complexity and the associated labor-intensive activities for qualifying and certifying these systems, OpenCert uses model-based approaches and incremental techniques.</description>
     </item>
     
     <item>
       <title>Getting Started with OpenCERT</title>
-      <link>/gettingstarted/</link>
+      <link>https://polarsys.org/opencert/gettingstarted/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/gettingstarted/</guid>
+      <guid>https://polarsys.org/opencert/gettingstarted/</guid>
       <description>This section guides the end-user through the use of OpenCert.
 Installation It must be noted that the pre-existing OpenCert tools are designed to follow client-server architecture approach:
  OpenCert server - installed in a central host machine One or many OpenCert clients - each of which installed on specific user machines  This installation relates to a standalone version of OpenCert, including Papyrus/CHESS plugins.
@@ -90,10 +90,10 @@ OpenCert can also use the Eclipse Process Framework (EPF) toolset.</description>
     
     <item>
       <title>Tutorial 1 - Install and run</title>
-      <link>/tutorials/tutorial1/</link>
+      <link>https://polarsys.org/opencert/tutorials/tutorial1/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/tutorial1/</guid>
+      <guid>https://polarsys.org/opencert/tutorials/tutorial1/</guid>
       <description>&lt;h2 id=&#34;this-is-where-you-write-your-tutorial&#34;&gt;This is where you write your tutorial&lt;/h2&gt;
 
 &lt;p&gt;You can put screenshots, graphics and other picture in &amp;ldquo;/static/images/tutorials/&amp;rdquo; and insert them like this:&lt;/p&gt;
@@ -134,10 +134,10 @@ OpenCert can also use the Eclipse Process Framework (EPF) toolset.</description>
     
     <item>
       <title>Tutorial 2 - Your first project in 10min</title>
-      <link>/tutorials/tutorial2/</link>
+      <link>https://polarsys.org/opencert/tutorials/tutorial2/</link>
       <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/tutorial2/</guid>
+      <guid>https://polarsys.org/opencert/tutorials/tutorial2/</guid>
       <description>&lt;p&gt;This is just an Dummy introduction to demonstrate the use of the &amp;ldquo;more&amp;rdquo; tag. Just in case a user clicks on &amp;ldquo;Tutorials&amp;rdquo; in the breadcrumb, and then goes to the list of all available tutorials. They will be sorted by date of publication, so do not forget to update it if needed.&lt;/p&gt;
 
 &lt;p&gt;And now a bit of lorem ipsum.&lt;/p&gt;
@@ -154,10 +154,10 @@ OpenCert can also use the Eclipse Process Framework (EPF) toolset.</description>
     
     <item>
       <title>Documentation</title>
-      <link>/help/help/</link>
+      <link>https://polarsys.org/opencert/help/help/</link>
       <pubDate>Fri, 17 Jul 2015 10:09:17 +0000</pubDate>
       
-      <guid>/help/help/</guid>
+      <guid>https://polarsys.org/opencert/help/help/</guid>
       <description>This is where you can write your documentation if you want to do it with Hugo, in markdown. You can then put all the screenshots, graphics and other pictures in the &amp;ldquo;static&amp;rdquo; folder. There is already a &amp;ldquo;help&amp;rdquo; folder too.
 Or, you can use a dedicated application to write your documentation, and export it in static HTML. You can then put it in this folder, it will be available when you upload your website on the webserver.</description>
     </item>

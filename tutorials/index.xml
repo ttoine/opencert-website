@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on OpenCERT</title>
-    <link>/tutorials/</link>
+    <link>https://polarsys.org/opencert/tutorials/</link>
     <description>Recent content in Tutorials on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jun 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tutorials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://polarsys.org/opencert/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutorial 1 - Install and run</title>
-      <link>/tutorials/tutorial1/</link>
+      <link>https://polarsys.org/opencert/tutorials/tutorial1/</link>
       <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/tutorial1/</guid>
+      <guid>https://polarsys.org/opencert/tutorials/tutorial1/</guid>
       <description>&lt;h2 id=&#34;this-is-where-you-write-your-tutorial&#34;&gt;This is where you write your tutorial&lt;/h2&gt;
 
 &lt;p&gt;You can put screenshots, graphics and other picture in &amp;ldquo;/static/images/tutorials/&amp;rdquo; and insert them like this:&lt;/p&gt;
@@ -57,10 +57,10 @@
     
     <item>
       <title>Tutorial 2 - Your first project in 10min</title>
-      <link>/tutorials/tutorial2/</link>
+      <link>https://polarsys.org/opencert/tutorials/tutorial2/</link>
       <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorials/tutorial2/</guid>
+      <guid>https://polarsys.org/opencert/tutorials/tutorial2/</guid>
       <description>&lt;p&gt;This is just an Dummy introduction to demonstrate the use of the &amp;ldquo;more&amp;rdquo; tag. Just in case a user clicks on &amp;ldquo;Tutorials&amp;rdquo; in the breadcrumb, and then goes to the list of all available tutorials. They will be sorted by date of publication, so do not forget to update it if needed.&lt;/p&gt;
 
 &lt;p&gt;And now a bit of lorem ipsum.&lt;/p&gt;

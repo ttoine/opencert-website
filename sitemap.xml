@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/downloads/</loc>
+    <loc>https://polarsys.org/opencert/downloads/</loc>
     <lastmod>2017-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://polarsys.org/opencert/about/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/hello-world/</loc>
+    <loc>https://polarsys.org/opencert/news/hello-world/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/community/</loc>
+    <loc>https://polarsys.org/opencert/community/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/documentation/</loc>
+    <loc>https://polarsys.org/opencert/documentation/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/index/</loc>
+    <loc>https://polarsys.org/opencert/index/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/gettingstarted/</loc>
+    <loc>https://polarsys.org/opencert/gettingstarted/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tutorials/tutorial1/</loc>
+    <loc>https://polarsys.org/opencert/tutorials/tutorial1/</loc>
     <lastmod>2016-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tutorials/tutorial2/</loc>
+    <loc>https://polarsys.org/opencert/tutorials/tutorial2/</loc>
     <lastmod>2016-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/help/help/</loc>
+    <loc>https://polarsys.org/opencert/help/help/</loc>
     <lastmod>2015-07-17T10:09:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/groups/</loc>
+    <loc>https://polarsys.org/opencert/groups/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/help/</loc>
+    <loc>https://polarsys.org/opencert/help/</loc>
     <lastmod>2015-07-17T10:09:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/news/</loc>
+    <loc>https://polarsys.org/opencert/news/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://polarsys.org/opencert/</loc>
     <lastmod>2017-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://polarsys.org/opencert/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tutorials/</loc>
+    <loc>https://polarsys.org/opencert/tutorials/</loc>
     <lastmod>2016-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
