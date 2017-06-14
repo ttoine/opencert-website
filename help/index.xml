@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helps on OpenCERT</title>
-    <link>https://ttoine.github.io/opencert-website/help/</link>
+    <link>https://polarsys.org/opencert/help/</link>
     <description>Recent content in Helps on OpenCERT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2015 10:09:17 +0000</lastBuildDate>
     
-	<atom:link href="https://ttoine.github.io/opencert-website/help/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://polarsys.org/opencert/help/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Documentation</title>
-      <link>https://ttoine.github.io/opencert-website/help/help/</link>
+      <link>https://polarsys.org/opencert/help/help/</link>
       <pubDate>Fri, 17 Jul 2015 10:09:17 +0000</pubDate>
       
-      <guid>https://ttoine.github.io/opencert-website/help/help/</guid>
+      <guid>https://polarsys.org/opencert/help/help/</guid>
       <description>This is where you can write your documentation if you want to do it with Hugo, in markdown. You can then put all the screenshots, graphics and other pictures in the &amp;ldquo;static&amp;rdquo; folder. There is already a &amp;ldquo;help&amp;rdquo; folder too.
 Or, you can use a dedicated application to write your documentation, and export it in static HTML. You can then put it in this folder, it will be available when you upload your website on the webserver.</description>
     </item>
